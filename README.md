@@ -1,6 +1,10 @@
 # Proffesional-Calculator
 Máy tính giao diện GUI có ghi nhớ lịch sử và xuất data lịch sử tính toán về dạng json
 
+<img width="1918" height="1022" alt="Image" src="https://github.com/user-attachments/assets/7b0f903a-d560-489b-88f9-04a9f7090e27" />
+
+<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/f2b64cc2-4f36-40a5-ae8f-d83ebd99ebc5" />
+
 # 🧮 Máy Tính Chuyên Nghiệp
 
 Ứng dụng máy tính hiện đại, đầy đủ tính năng được xây dựng bằng Python và Tkinter, cung cấp giao diện GUI đẹp mắt với các phép toán nâng cao và chức năng toàn diện.
